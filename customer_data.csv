@@ -1,0 +1,16 @@
+Customer_ID,Age,Gender,City,Monthly_Income,Purchased_Product
+C101,22,Male,Chennai,25000,0
+C102,24,Female,Coimbatore,30000,1
+C103,26,Male,Madurai,35000,1
+C104,,Female,Salem,28000,0
+C105,29,Female,Chennai,,1
+C106,31,Male,Trichy,40000,1
+C107,23,Male,Erode,26000,0
+C108,27,Female,Coimbatore,33000,1
+C109,,Male,Madurai,29000,0
+C110,34,Female,Chennai,45000,1
+C111,30,Male,Salem,38000,1
+C112,25,Female,Trichy,,0
+C113,28,Male,Erode,36000,1
+C114,35,Female,Coimbatore,50000,1
+C115,32,Male,Chennai,42000,1
